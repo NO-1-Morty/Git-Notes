@@ -158,7 +158,7 @@
 
 
 
-如果出现以下错误，可以输入git remote rm origin先删除远程仓库链接，然后再次输入 git remote add origin你新建仓库的URL。
+如果出现以下错误，可以输入git remote rm origin先删除远程仓库链接，然后再次输入 git remote add origin你新建仓库地址链接。
 
 ```csharp
 git remote add origin
